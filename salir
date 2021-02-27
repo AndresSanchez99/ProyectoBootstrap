@@ -1,0 +1,65 @@
+[33mcommit 098ae69e0e2e6a4ede612c7bf1cc1edd4835cc47[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Andres Sanchez <afsanchez82849@umanizales.edu.co>
+Date:   Thu Sep 10 14:02:04 2020 -0500
+
+    Agregamos Lista precios en pagina precios
+
+[33mcommit f7380e8ae9315b2edd8b1b43570a9616f79973f2[m
+Author: Andres Sanchez <afsanchez82849@umanizales.edu.co>
+Date:   Thu Sep 10 00:31:28 2020 -0500
+
+    Agregamos una nueva pagina y campos email y comentarios
+
+[33mcommit 5c2b5578ed1eb949f22d68677271ec4904a661f3[m
+Author: Andres Sanchez <afsanchez82849@umanizales.edu.co>
+Date:   Mon Aug 31 23:41:48 2020 -0500
+
+    Agregamos iconos
+
+[33mcommit d53260de4a2ff27ef4fb2bc280c23a3833348c08[m
+Author: Andres Sanchez <afsanchez82849@umanizales.edu.co>
+Date:   Mon Aug 31 16:35:42 2020 -0500
+
+    Agregamos navigabilidad
+
+[33mcommit e7677671aab7080a5fe61697faa345ef5d55efb9[m
+Author: Andres Sanchez <afsanchez82849@umanizales.edu.co>
+Date:   Fri Aug 28 01:42:38 2020 -0500
+
+    Agregamos footer y estilos con flex
+
+[33mcommit f43148eec97e614f0c815e6815f62627a6dd56ee[m
+Author: Andres Sanchez <afsanchez82849@umanizales.edu.co>
+Date:   Wed Aug 26 23:36:05 2020 -0500
+
+    Implementacion Sistema de Grillas
+
+[33mcommit c32ec7b1a381892f87134bfa6a2439436d2547ab[m
+Author: Andres Sanchez <afsanchez82849@umanizales.edu.co>
+Date:   Wed Aug 26 14:25:37 2020 -0500
+
+    Incluimos bootstrap
+
+[33mcommit 7ea5418587053b389ca6aea0a6aa25004130e3f3[m
+Author: Andres Sanchez <afsanchez82849@umanizales.edu.co>
+Date:   Wed Aug 26 12:52:01 2020 -0500
+
+    Agregamos pagina de inicio
+
+[33mcommit b00eae034431e2db6ad3f1c11cecef4fe415d231[m
+Author: Andres Sanchez <afsanchez82849@umanizales.edu.co>
+Date:   Wed Aug 26 12:22:57 2020 -0500
+
+    Incluimos lite-server
+
+[33mcommit 764034959ef528d03bbe9886c8763f02cef5de35[m
+Author: Andres Sanchez <afsanchez82849@umanizales.edu.co>
+Date:   Sat Aug 22 23:24:22 2020 -0500
+
+    Definicion del package.json
+
+[33mcommit c6837977ea0859323618d0908e42b15210bd608d[m
+Author: Andres Sanchez <afsanchez82849@umanizales.edu.co>
+Date:   Sat Aug 22 22:48:31 2020 -0500
+
+    Creacion inicial del proyecto con un readme
